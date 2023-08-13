@@ -28,7 +28,7 @@
 
 ### It stores -
 
-- Server ID to store other server data(autoroles, welcomer, selfrole, Giveaway , Welcome , Members Info, whitelisted data for antinuke)
+- Server ID to store other server data(autoroles, welcomer, selfrole, Giveaway , Welcome , Members Info, whitelisted data for antinuke), scan users messages if automod system is enabled in the server
 - Blacklisted User ids
 
 ## Remove Your Data And Data Retention.
